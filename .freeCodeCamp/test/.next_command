@@ -34,3 +34,4 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo hello PostegreSQL
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
